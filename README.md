@@ -4,7 +4,7 @@ A **full-stack credit management system** that allows tracking of user transacti
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Manage user transactions with amount and credits
 * View recent users and key statistics
@@ -14,7 +14,7 @@ A **full-stack credit management system** that allows tracking of user transacti
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **Backend:**
 
@@ -35,7 +35,7 @@ A **full-stack credit management system** that allows tracking of user transacti
 
 ---
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 Backend-Credit-Engine/
@@ -56,14 +56,14 @@ Backend-Credit-Engine/
 
 ---
 
-## ⚡ Live Demo
+##  Live Demo
 
 * **Backend API:** [https://backend-credit-engine-gnhn.onrender.com/](https://backend-credit-engine-gnhn.onrender.com/)
 * **Frontend:** [https://frontend-credit-engine.onrender.com/](https://frontend-credit-engine.onrender.com/)
 
 ---
 
-## 🔗 API Endpoints
+##  API Endpoints
 
 ### Transactions
 
@@ -112,7 +112,7 @@ Backend-Credit-Engine/
 
 ---
 
-## 💻 Setup Instructions
+##  Setup Instructions
 
 ### Backend
 
